@@ -1,5 +1,7 @@
 # Hack IndieHackers Chrome Extension
 
+https://www.indiehackers.com/
+
 A Chrome extension that removes popup elements with class 'simple-popup ember-view pw-pop' and IDs starting with 'ember'.
 
 ## Installation
